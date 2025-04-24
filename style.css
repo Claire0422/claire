@@ -1,0 +1,19 @@
+body {
+    background: pink
+}
+
+
+h1,
+p {
+    color: lightcyan;
+    text-align: center;
+    font-family: courier;
+}
+
+a {
+    color: cyan
+}
+
+img {
+    width: 300px;
+}
